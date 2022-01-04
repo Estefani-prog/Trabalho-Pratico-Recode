@@ -1,0 +1,196 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApplication1
+build_property.RootNamespace = WebApplication1
+build_property.ProjectDir = C:\Users\Remakker\Desktop\TRABALHO PRÁTICO RECODE\Visual\WebApplication1\WebApplication1\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Remakker\Desktop\TRABALHO PRÁTICO RECODE\Visual\WebApplication1\WebApplication1
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Aquisicoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXF1aXNpY29lc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Aquisicoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXF1aXNpY29lc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Aquisicoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXF1aXNpY29lc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Aquisicoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXF1aXNpY29lc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Aquisicoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXF1aXNpY29lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Clientes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Clientes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Clientes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Clientes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Clientes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Contatoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Contatoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Contatoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Contatoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Contatoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Home/Cadastros.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYWRhc3Ryb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Home/Contato.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YXRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Home/controle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjb250cm9sZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Home/Destino.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXN0aW5vLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Home/EscolhaDisney.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFc2NvbGhhRGlzbmV5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Home/EscolhaDubai.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFc2NvbGhhRHViYWkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Home/EscolhaParis.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFc2NvbGhhUGFyaXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Home/EscolhaPolinesia.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFc2NvbGhhUG9saW5lc2lhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Home/EscolhaRioDeJaneiro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFc2NvbGhhUmlvRGVKYW5laXJvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Home/EscolhaRoma.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFc2NvbGhhUm9tYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Home/FinalDisney.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGaW5hbERpc25leS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Home/FinalDubai.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGaW5hbER1YmFpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Home/FinalizadaComSucesso.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGaW5hbGl6YWRhQ29tU3VjZXNzby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Home/FinalParis.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGaW5hbFBhcmlzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Home/FinalPolinesia.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGaW5hbFBvbGluZXNpYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Home/FinalPromocao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGaW5hbFByb21vY2FvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Home/FinalRioDeJaneiro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGaW5hbFJpb0RlSmFuZWlyby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Home/FinalRoma.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGaW5hbFJvbWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Home/Promocoes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9tb2NvZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Viagens/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlhZ2Vuc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Viagens/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlhZ2Vuc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Viagens/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlhZ2Vuc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Viagens/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlhZ2Vuc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Viagens/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlhZ2Vuc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Remakker/Desktop/TRABALHO PRÁTICO RECODE/Visual/WebApplication1/WebApplication1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-bddmc6yalx

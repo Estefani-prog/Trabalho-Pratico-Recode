@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Rio de Janeiro";
+}
+    <main class="page hire-me-page">
+        <section class="portfolio-block hire-me">
+            <div class="container">
+                <div class="heading">
+                    <h2>Finalize sua compra <br>DESTINO RIO DE JANEIRO</h2>
+                </div>
+                <form asp-controller="Aquisicoes" asp-action="Create">
+                    <input type="hidden" value=1 name="IdViagem" />
+                    <input type="hidden" value=0 name="IdCiente" />
+                    <input type="hidden" value=1 name="Quantidade" />
+                    <div class="mb-3"><label class="form-label" for="subject">NOME COMPLETO</label><input class="form-control" inputmode="latin-name" name=""></div>
+                    <div class="mb-3"><label class="form-label" for="email">E-MAIL</label><input class="form-control" type="email" id="email" inputmode="email"></div>
+                    <div class="mb-3"><label class="form-label" for="email">TELEFONE&nbsp;</label><input class="form-control"  name="telefone" inputmode="tel"></div>
+                    <div class="mb-3"></div>
+                    <div class="mb-3">
+                        <div class="row">
+                            <div class="col-md-6"><label class="form-label" for="hire-date">Data de check-in</label><input class="form-control" id="hire-date" type="date"></div>
+                            <div class="col-md-6"><label class="form-label" for="hire-date">Data de check-out</label><input class="form-control" id="hire-date-1" type="date"></div>
+                        </div>
+                    </div><button class="btn btn-primary d-block w-100" role="button" type="submit">FINALIZAR COMPRA</button>
+                </form>
+            </div>
+        </section>
+    </main>

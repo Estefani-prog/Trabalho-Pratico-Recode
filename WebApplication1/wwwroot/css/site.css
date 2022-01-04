@@ -1,0 +1,29 @@
+.page-footer {
+    padding-top: 35px;
+    border-top: 0 !important;
+    text-align: center;
+    padding-bottom: 20px;
+    background: linear-gradient(to bottom,#fff,rgba(97,141,254,.27)) #fff
+}
+
+.portfolio-navbar.gradient {
+    background: linear-gradient(37deg,#fff,rgba(75,142,244,.68));
+    backdrop-filter: blur(4px)
+}
+
+button.navbar-toggler {
+    background: rgba(255,255,255,.45);
+    backdrop-filter: blur(4px);
+    position: relative;
+    left: calc(100vw - 92px)
+}
+
+#navbarNav a {
+    font-family: Courgette
+}
+
+* {
+    font-family: Courgette !important;
+    margin: 0;
+    padding: 0;
+}
